@@ -1,0 +1,13 @@
+body {
+  background-color: #1e1463;
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Raleway", serif;
+  padding-top: 5%;
+}
+
+.logo {
+  width: 250px;
+  height: 250px;
+}
